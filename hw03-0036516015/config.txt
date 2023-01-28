@@ -1,0 +1,4 @@
+java -jar out/artifacts/controller/hw03-0036516015.jar
+1
+20
+10
